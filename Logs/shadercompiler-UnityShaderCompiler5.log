@@ -1,0 +1,18 @@
+Base path: '/home/tycho/Unity/Hub/Editor/2020.3.21f1/Editor/Data', plugins path '/home/tycho/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=4779 file=/media/gamedisk/Development/Projects/DndCompanion/Library/PackageCache/com.unity.render-pipelines.high-definition@10.6.0/Runtime/Lighting/ScreenSpaceLighting/GTAOSpatialDenoise.compute kernel=SpatialDenoise cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=TO_TEMPORAL SHADER_STAGE_COMPUTE platform=vulkan flags=4096 ok=1 outsize=24171
+
+Cmd: compileComputeKernel
+  insize=10754 file=/media/gamedisk/Development/Projects/DndCompanion/Library/PackageCache/com.unity.render-pipelines.high-definition@10.6.0/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant9 cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant9>,<USE_INDIRECT=1>,<VARIANT=9>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF SHADOW_MEDIUM SHADER_STAGE_COMPUTE platform=vulkan flags=4096 ok=1 outsize=265104
+
+Cmd: compileComputeKernel
+  insize=10754 file=/media/gamedisk/Development/Projects/DndCompanion/Library/PackageCache/com.unity.render-pipelines.high-definition@10.6.0/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant22 cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant22>,<USE_INDIRECT=1>,<VARIANT=22>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF SHADOW_MEDIUM SHADER_STAGE_COMPUTE platform=vulkan flags=4096 ok=1 outsize=405421
+
+Cmd: compileComputeKernel
+  insize=1891 file=/media/gamedisk/Development/Projects/DndCompanion/Library/PackageCache/com.unity.render-pipelines.high-definition@10.6.0/Runtime/PostProcessing/Shaders/BloomUpsample.compute kernel=KMain cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=LOW_QUALITY SHADER_STAGE_COMPUTE platform=vulkan flags=4096 ok=1 outsize=14459
+
+Cmd: compileComputeKernel
+  insize=859 file=/media/gamedisk/Development/Projects/DndCompanion/Library/PackageCache/com.unity.render-pipelines.high-definition@10.6.0/Runtime/Core/CoreResources/GPUCopy.compute kernel=KSampleCopy4_1_x_1 cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<KERNEL_NAME41=KSampleCopy4_1_x_1>,<KERNEL_SIZE=1>,<UNITY_VERSION=202039> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=vulkan flags=4096 ok=1 outsize=2434
+
